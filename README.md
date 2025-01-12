@@ -1,4 +1,3 @@
-```markdown
 # tina
 
 tina is a sophisticated AI agent designed for the insightful analysis and trading of Solana tokens. Built at **ghoulish labs**, this project leverages the performance of Rust to ensure speed, safety, and concurrency in trading operations. Whether you're a seasoned trader or a curious developer looking to explore the world of cryptocurrency trading, tina aims to assist you with efficient strategies for navigating the Solana ecosystem.
